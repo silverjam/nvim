@@ -1,1 +1,1 @@
-require("nvim-silverjam")
+require("silverjam")
