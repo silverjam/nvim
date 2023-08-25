@@ -61,4 +61,8 @@ return require('packer').startup(function(use)
       end
   }
 
+  use('sukima/xmledit')
+  use('cappyzawa/starlark.vim')
+  use('vmware-tanzu/ytt.vim')
+
 end)
